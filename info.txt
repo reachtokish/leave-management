@@ -1,0 +1,7 @@
+admin@admin.com
+    user1@user1.com
+        user11@user11.com
+        user12@user12.com
+    user2@user2.com
+        user21@user21.com
+        user22@user22.com
